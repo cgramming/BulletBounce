@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1545817464 source:c:\cpp\bbbb\src\shield.cpp
+	<graphics.h>
+	"Shield.h"
+
+1545205142 c:\cpp\bbbb\include\shield.h
+
+1545843772 source:c:\cpp\bbbb\src\bullet.cpp
+	<stdlib.h>
+	<ctime>
+	<graphics.h>
+	"Bullet.h"
+
+1545378730 c:\cpp\bbbb\include\bullet.h
+
+1545817874 source:c:\cpp\bbbb\main.cpp
+	<iostream>
+	<sstream>
+	<graphics.h>
+	<stdlib.h>
+	<bits/stdc++.h>
+	<conio.h>
+	"Shield.h"
+	"Bullet.h"
+
+1544871461 source:c:\cpp\bbbb\include\bullet.h
+
+1544869465 source:c:\cpp\bbbb\include\shield.h
+
